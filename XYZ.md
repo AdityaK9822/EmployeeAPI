@@ -1,3 +1,0 @@
-Sample Readme
-
-New line
